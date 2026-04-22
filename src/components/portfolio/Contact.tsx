@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 
 const RESUME_URL =
-  "https://drive.google.com/file/d/1ELzEXgBR0xpJQ6cERQfmfRc4g0HdLrth/view";
+  "https://drive.google.com/file/d/1vcqqa46_oo5NmfONbfX4_SiXs2YR39g8/view?usp=sharing";
 const FORM_URL = "https://forms.gle/7PGQ2Ywjpm9viVc77";
 const LINKEDIN_URL =
   "https://www.linkedin.com/in/abhi-solanki?utm_source=share_via&utm_content=profile&utm_medium=member_android";
