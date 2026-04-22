@@ -14,11 +14,12 @@ const skills = [
 const tools = [
   "ChatGPT",
   "Gemini Ai",
-  "claude",
+  "Claude",
   "Grammarly",
   "Dupli checker",
   "Google Docs",
   "HubSpot",
+  "AlsoAsked",
 ];
 
 const Skills = () => {
